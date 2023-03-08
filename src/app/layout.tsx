@@ -1,7 +1,7 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'Empresa Electromecánica Especializada en Fibra Óptica',
+  title: 'ElDetalle - Empresa Electromecánica Especializada en Fibra Óptica',
   // <!-- SEO meta tags -->
   description:
     'Somos una empresa especializada en electromecánica para fibra óptica. Ofrecemos soluciones innovadoras y de calidad para tus proyectos.',
