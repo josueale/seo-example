@@ -21,7 +21,7 @@ export const metadata = {
   'og:description':
     'Somos una empresa especializada en electromecánica para fibra óptica. Ofrecemos soluciones innovadoras y de calidad para tus proyectos.',
   'og:url': 'http://www.tupagina.com',
-  'og:image': 'http://www.tupagina.com/images/tu-imagen.jpg',
+  'og:image': 'https://eldetalleperu.com/wp-content/uploads/2019/09/LOGO-REDIBUJADO-EL-DETALLE.png',
   'og:type': 'website',
   'og:locale': 'es_ES',
 
@@ -30,7 +30,7 @@ export const metadata = {
   'twitter:title': 'Empresa Electromecánica Especializada en Fibra Óptica',
   'twitter:description':
     'Somos una empresa especializada en electromecánica para fibra óptica. Ofrecemos soluciones innovadoras y de calidad para tus proyectos.',
-  'twitter:image': 'http://www.tupagina.com/images/tu-imagen.jpg',
+  'twitter:image': 'https://eldetalleperu.com/wp-content/uploads/2019/09/LOGO-REDIBUJADO-EL-DETALLE.png',
 };
 
 export default function RootLayout({
