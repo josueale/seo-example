@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     title: 'Empresa Electromecánica Especializada en Fibra Óptica',
     description:
       'Somos una empresa especializada en electromecánica para fibra óptica. Ofrecemos soluciones innovadoras y de calidad para tus proyectos.',
-    url: '/',
+    url: 'https://seo-eldetalle.vercel.app/',
     siteName: 'el detalle',
     images: [
       {
