@@ -12,6 +12,7 @@ export const metadata: Metadata = {
 
   other: {
     'revisit-after': '7 days',
+    'google-site-verification': 'CMtJ7TYdf1auKD22txDGabgEhTmEmU99W-9upirfTeI',
   },
 
   referrer: 'no-referrer-when-downgrade',
@@ -50,8 +51,9 @@ export const metadata: Metadata = {
 
   twitter: {
     card: 'summary_large_image',
-    title: '',
-    description: '',
+    title: 'Empresa Electromecánica Especializada en Fibra Óptica',
+    description:
+      'Somos una empresa especializada en electromecánica para fibra óptica. Ofrecemos soluciones innovadoras y de calidad para tus proyectos.',
     images: '/logo-eldetalle.png',
   },
 };
